@@ -1,4 +1,4 @@
-package Bhanu128;
+package Deva128;
 
 public class BinarySearchExample {
 
